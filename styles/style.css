@@ -147,3 +147,77 @@ header p {
  color: #FFFFFF;
  padding-bottom: 20px;
 }
+
+footer {
+ background-color: black;
+
+}
+
+.footer-container {
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+ /* background-color: #16D887; */
+ width: 85%;
+ margin: 0 auto;
+ height: 577px;
+}
+
+.footer-info {
+ width: 35%;
+}
+
+.footer-info img {
+ padding-right: 20px;
+ padding-top: 10px;
+}
+
+.footer-info h1 {
+ font-size: 45px;
+ font-weight: bold;
+ color: #FFFFFF;
+}
+
+.footer-info p {
+ font-size: 16px;
+ font-weight: 400;
+ color: #FFFFFF;
+ padding: 10px 0 10px 0;
+
+}
+
+.footer-form {
+ padding-right: 100px;
+ /* background-color: #16D887; */
+
+}
+
+
+.footer-form h2 {
+ font-size: 30px;
+ font-weight: 900;
+ color: #FFFFFF;
+ padding-bottom: 16px;
+
+}
+
+.email-box {
+ width: 325px;
+ height: 64px;
+ border-radius: 5px;
+ padding-left: 10px;
+ font-size: 16px;
+ font-weight: 600;
+
+}
+
+.subscribe-btn {
+ color: #FFFFFF;
+ background-color: #005FAC;
+ padding: 16px 40px 16px 40px;
+ border: none;
+ border-radius: 5px;
+ font-size: 20px;
+ font-weight: 600;
+
+}
